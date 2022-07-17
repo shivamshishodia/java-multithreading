@@ -1,4 +1,4 @@
-package com.shishodia.multithreading;
+package com.shishodia.java.multithreading;
 
 import java.util.concurrent.TimeUnit;
 
