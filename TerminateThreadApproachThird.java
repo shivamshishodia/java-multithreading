@@ -1,5 +1,3 @@
-package com.shishodia.java.multithreading;
-
 import java.util.concurrent.TimeUnit;
 
 class TerminateThread extends Thread {

@@ -1,5 +1,3 @@
-package com.shishodia.java.multithreading;
-
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.TimeUnit;
 
